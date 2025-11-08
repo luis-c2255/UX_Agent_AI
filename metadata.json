@@ -1,0 +1,5 @@
+{
+  "name": "UXCraft AI",
+  "description": "An expert AI assistant for generating high-quality UX artifacts. It helps with user stories, acceptance criteria, design ideas, and more, powered by Gemini. It also includes tools for AI-powered chat, image generation, image editing, and research.",
+  "requestFramePermissions": []
+}
