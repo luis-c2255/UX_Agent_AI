@@ -83,7 +83,7 @@ You can preview your app locally or deploy it via [AI Studio](https://ai.studio/
 - [React](https://react.dev/)
 
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/luis-c2255/UX_Agent_AI/blob/main/LICENSE).
 
 ## 🙌 Contributing
 Contributions are welcome and appreciated! Here's how you can get involved:
